@@ -28,9 +28,11 @@ div {
 	left: 0;
 	width: 75px;
 	height: 100px;
+	background-size: 100% 100%;
 	/*border: 3px solid #73AD21;*/
 }
 .home {
+	background: url("images/marvinhome2.jpg") no-repeat;
 	position: absolute;
 	top: 20;
 	left: 10%;
@@ -38,9 +40,11 @@ div {
 	width: 75px;
 	height: 60px;
 	border: 3px solid darkred;
+	background-size: 100% 100%;
 
 }
 .myfamily {
+	background: url("images/marvinfamily2.jpg") no-repeat;
 	position: absolute;
 	top: 20;
 	left: 20%;
@@ -48,9 +52,11 @@ div {
 	width: 75px;
 	height: 60px;
 	border: 3px solid darkred;
+	background-size: 100% 100%;
 
 }
 .myeducation {
+	background: url("images/marvinthink.jpg") no-repeat;
 	position: absolute;
 	top: 20;
 	left: 30%;
@@ -58,9 +64,11 @@ div {
 	width: 75px;
 	height: 60px;
 	border: 3px solid darkred;
+	background-size: 100% 100%;
 
 }
 .myservice{
+	background: url("images/marvinservice.jpg") no-repeat;
 	position: absolute;
 	top: 20;
 	left: 40%;
@@ -68,9 +76,11 @@ div {
 	width: 75px;
 	height: 60px;
 	border: 3px solid darkred;
+	background-size: 100% 100%;
 
 }
 .myemployement {
+	background: url("images/marvinjob.jpg") no-repeat;
 	position: absolute;
 	top: 20;
 	left: 50%;
@@ -78,5 +88,6 @@ div {
 	width: 75px;
 	height: 60px;
 	border: 3px solid darkred;
+	background-size: 100% 100%;
 
 }
