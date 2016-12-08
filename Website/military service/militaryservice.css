@@ -1,5 +1,5 @@
 body {
-	background: url("images/background1.jpg") no-repeat;
+	background: url("../images/familybackground.png") no-repeat;
 	background-size: cover;
 }
 
@@ -15,7 +15,7 @@ div {
 	border: 3px solid black;
 }
 .pic {
-	background: url("images/marvg.jpeg") no-repeat;
+	background: url("../images/marvinleft.jpg") no-repeat;
 	/*background: crimson;*/
 	
 	position: absolute;
@@ -27,7 +27,7 @@ div {
 	/*border: 3px solid #73AD21;*/
 }
 .home {
-	background: url("images/marvinhome2.jpg") no-repeat;
+	background: url("../images/marvinhome2.jpg") no-repeat;
 	position: absolute;
 	top: 20px;
 	left: 15%;
@@ -43,7 +43,7 @@ div {
 
 }
 .myfamily {
-	background: url("images/marvinfamily2.jpg") no-repeat;
+	background: url("../images/marvinfamily2.jpg") no-repeat;
 	position: absolute;
 	top: 20px;
 	left: 30%;
@@ -59,7 +59,7 @@ div {
 
 }
 .myeducation {
-	background: url("images/marvinthink2.jpg") no-repeat;
+	background: url("../images/marvinthink2.jpg") no-repeat;
 	position: absolute;
 	top: 20px;
 	left: 45%;
@@ -75,7 +75,7 @@ div {
 
 }
 .myservice{
-	background: url("images/marvinmilitary2.jpeg") no-repeat;
+	background: url("../images/marvinmilitary2.jpeg") no-repeat;
 	position: absolute;
 	top: 20px;
 	left: 60%;
@@ -91,7 +91,7 @@ div {
 
 }
 .myemployement {
-	background: url("images/marvinjob.jpg") no-repeat;
+	background: url("../images/marvinjob.jpg") no-repeat;
 	position: absolute;
 	top: 20px;
 	left: 75%;
@@ -107,7 +107,7 @@ div {
 
 }
 .pic2 {
-	background: url("images/marvg.jpeg") no-repeat;
+	background: url("../images/marvinright.jpg") no-repeat;
 	/*background: crimson;*/
 	
 	position: absolute;
@@ -116,3 +116,87 @@ div {
 	width: 100px;
 	height: 150px;
 	background-size: 100% 100%;
+}
+.contact {
+	background: firebrick;
+	position: relative;
+	width: 150px;
+	height:	700px;
+	border: 3px solid black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: darkblue;
+	font-size: 30px;
+	text-align: center;
+}
+.email {
+	background: url("../images/gmail.jpg") no-repeat;
+	position: absolute;
+	top: 10%;
+	left: 20px;
+	width: 110px;
+	height: 100px;
+	/*border: 3px solid darkred;*/
+	background-size: 100% 100%;
+
+}
+.github {
+	background: url("../images/github.jpg") no-repeat;
+	position: absolute;
+	top: 25%;
+	left: 20px;
+	width: 110px;
+	height: 100px;
+	/*border: 3px solid darkred;*/
+	background-size: 100% 100%;
+
+}
+.linkedin {
+background: url("../images/linkedin.png") no-repeat;
+	position: absolute;
+	top: 40%;
+	left: 20px;
+	width: 110px;
+	height: 100px;
+	/*border: 3px solid darkred;*/
+	background-size: 100% 100%;
+}
+.facebook {
+background: url("../images/facebook.png") no-repeat;
+	position: absolute;
+	top: 55%;
+	left: 20px;
+	width: 110px;
+	height: 100px;
+	/*border: 3px solid darkred;*/
+	background-size: 100% 100%;
+}
+.twitter {
+background: url("../images/twitter.png") no-repeat;
+	position: absolute;
+	top: 68%;
+	left: 20px;
+	width: 110px;
+	height: 100px;
+	/*border: 3px solid darkred;*/
+	background-size: 100% 100%;
+}
+.hometitle {
+	position: absolute;
+	top: 150px;
+	left: 200px;
+	right: 200px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+.hometitle2 {
+	position: absolute;
+	top: 200px;
+	left: 200px;
+	right: 200px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: green;
+	font-size: 35px;
+	text-align: center;
+}
