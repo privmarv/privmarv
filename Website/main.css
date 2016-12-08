@@ -33,7 +33,7 @@ div {
 .home {
 	position: absolute;
 	top: 20;
-	left: 80px;
+	left: 10%;
 	bottom: 20px;
 	width: 75px;
 	height: 60px;
@@ -43,7 +43,7 @@ div {
 .myfamily {
 	position: absolute;
 	top: 20;
-	left: 280px;
+	left: 20%;
 	bottom: 20px;
 	width: 75px;
 	height: 60px;
@@ -53,7 +53,7 @@ div {
 .myeducation {
 	position: absolute;
 	top: 20;
-	left: 480px;
+	left: 30%;
 	bottom: 20px;
 	width: 75px;
 	height: 60px;
@@ -63,7 +63,7 @@ div {
 .myservice{
 	position: absolute;
 	top: 20;
-	left: 680px;
+	left: 40%;
 	bottom: 20px;
 	width: 75px;
 	height: 60px;
@@ -73,7 +73,7 @@ div {
 .myemployement {
 	position: absolute;
 	top: 20;
-	left: 880px;
+	left: 50%;
 	bottom: 20px;
 	width: 75px;
 	height: 60px;
