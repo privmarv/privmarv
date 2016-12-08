@@ -3,11 +3,6 @@ body {
 	background-size: cover;
 }
 
-
-
-
-
-
 div {
 	margin: 0;
 	padding: 0;
@@ -16,7 +11,7 @@ div {
 	background: #73AD21;
 	position: relative;
 	width: cover;
-	height:	100px;
+	height:	150px;
 	border: 3px solid black;
 }
 .pic {
@@ -26,68 +21,98 @@ div {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 75px;
-	height: 100px;
+	width: 100px;
+	height: 150px;
 	background-size: 100% 100%;
 	/*border: 3px solid #73AD21;*/
 }
 .home {
 	background: url("images/marvinhome2.jpg") no-repeat;
 	position: absolute;
-	top: 20;
-	left: 10%;
+	top: 20px;
+	left: 15%;
 	bottom: 20px;
-	width: 75px;
-	height: 60px;
+	width: 110px;
+	height: 110px;
 	border: 3px solid darkred;
 	background-size: 100% 100%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: greenyellow;
+	font-size: 25px;
+	text-align: center;
 
 }
 .myfamily {
 	background: url("images/marvinfamily2.jpg") no-repeat;
 	position: absolute;
-	top: 20;
-	left: 20%;
+	top: 20px;
+	left: 30%;
 	bottom: 20px;
-	width: 75px;
-	height: 60px;
+	width: 110px;
+	height: 110px;
 	border: 3px solid darkred;
 	background-size: 100% 100%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: black;
+	font-size: 20px;
+	text-align: center;
 
 }
 .myeducation {
 	background: url("images/marvinthink.jpg") no-repeat;
 	position: absolute;
-	top: 20;
-	left: 30%;
+	top: 20px;
+	left: 45%;
 	bottom: 20px;
-	width: 75px;
-	height: 60px;
+	width: 110px;
+	height: 110px;
 	border: 3px solid darkred;
 	background-size: 100% 100%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: greenyellow;
+	font-size: 16px;
+	text-align: center;
 
 }
 .myservice{
-	background: url("images/marvinservice.jpg") no-repeat;
+	background: url("images/marvinmilitary2.jpeg") no-repeat;
 	position: absolute;
-	top: 20;
-	left: 40%;
+	top: 20px;
+	left: 60%;
 	bottom: 20px;
-	width: 75px;
-	height: 60px;
+	width: 110px;
+	height: 110px;
 	border: 3px solid darkred;
 	background-size: 100% 100%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: black;
+	font-size: 18px;
+	text-align: left;
 
 }
 .myemployement {
 	background: url("images/marvinjob.jpg") no-repeat;
 	position: absolute;
-	top: 20;
-	left: 50%;
+	top: 20px;
+	left: 75%;
 	bottom: 20px;
-	width: 75px;
-	height: 60px;
+	width: 110px;
+	height: 110px;
 	border: 3px solid darkred;
 	background-size: 100% 100%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: black;
+	font-size: 18px;
+	text-align: justify;
 
 }
+.pic2 {
+	background: url("images/marvg.jpeg") no-repeat;
+	/*background: crimson;*/
+	
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 100px;
+	height: 150px;
+	background-size: 100% 100%;
